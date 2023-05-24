@@ -1,0 +1,21 @@
+*
+{
+    padding:0;
+    margin: 0;
+    
+    background-image: url(download.jpg);
+    background-size: cover;
+}
+button
+{
+    border-radius: 30px;
+    color: white;
+    background-color: peru;
+}
+.container
+{height:100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   
+}
